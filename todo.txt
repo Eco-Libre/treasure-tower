@@ -1,0 +1,7 @@
+TODO
+
+ * add roof
+ * add doors
+ * add windows (except sheer walls)
+ * add light wells
+ * add deposit closet walls
