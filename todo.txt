@@ -1,5 +1,6 @@
 TODO
 
+ * add half-basement (?) so first deposit closet is ground-level
  * add roof
  * add doors
  * add windows (except sheer walls)
