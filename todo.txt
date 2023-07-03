@@ -1,5 +1,7 @@
 TODO
 
+ * redesign it with less height (see commit log). Change the location of the "second" alternating deposit closet to be on the same side as the first one, just on the left side of the second "wind" around the structure from the entrance (instead of the right side). The first one (the floor plus seat height) will sit at 0.6+0.4 = 1 meter above the ground floor, which is perfect. The second/higher one will be 1.2+0.4 = 1.6 meters above the ground, which is what we currently have.
+
  * add half-basement (?) so first deposit closet is ground-level
  * add roof
  * add doors
