@@ -1,5 +1,12 @@
 TODO
 
+ * change this to a 5x storey structure, to meet the max height of most country building codes for confined masonry
+
+ * on the first floor (ground-level), put 2x 3x4m "changing places" deposit closits + 2x 3x1.5 meter able-bodied WCs. That's 
+ * put a second (or third?) toilet at ground-level (if there's space after creating a 3x4 meter "changing places" toilet)
+	- the structure is 6m x 7m. A changing places toilet is 3m x 4m.
+   - perhaps I should make this structure 7m x 7m, because I wanted a 1 sq meter "hole" down the center between all stories (for better light & ventilation also an eventual elevator to easily move the compost between stories. But a 3mx4m changing places toilet would block that, while it wouldn't in a 7m x 7m structure.
+
  * redesign it with less height (see commit log). Change the location of the "second" alternating deposit closet to be on the same side as the first one, just on the left side of the second "wind" around the structure from the entrance (instead of the right side). The first one (the floor plus seat height) will sit at 0.6+0.4 = 1 meter above the ground floor, which is perfect. The second/higher one will be 1.2+0.4 = 1.6 meters above the ground, which is what we currently have.
 
  * add half-basement (?) so first deposit closet is ground-level
@@ -8,3 +15,4 @@ TODO
  * add windows (except sheer walls)
  * add light wells
  * add deposit closet walls
+ * make the ramps 1.5 meters wide and all the landings 1.8 meters wide (turning space), to accommodate wheelchair users https://www.iwa.ie/access-guidelines/great-outdoors-access-guidelines/7-access-to-the-built-environment/
