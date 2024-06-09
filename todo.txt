@@ -1,6 +1,7 @@
 TODO
 
  * add stairs down to the first WC
+ * add compost unloading platform outside the second-floor maintenance door (the first door above ground level that's ~1m above the ground level) that pours into a hopper for collection in a wheelbarrow or tractor trailer at ground-level
  * add sinks
  * add half-basement (?) so first deposit closet is ground-level
  * add roof
