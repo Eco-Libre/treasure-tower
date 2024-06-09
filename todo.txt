@@ -10,4 +10,4 @@ TODO
  * add light wells
  * add deposit closet walls
  * make the ramps 1.5 meters wide and all the landings 1.8 meters wide (turning space), to accommodate wheelchair users https://www.iwa.ie/access-guidelines/great-outdoors-access-guidelines/7-access-to-the-built-environment/
-    - also check turning radius needed for a hydraulic hand-truck pulling a standard Euro pallet (1.2 meters long, 0.8 meters wide, 1 meter tall)
+    - also check turning radius needed for a hydraulic hand-truck pulling a standard Euro pallet (1.2 meters long, 0.8 meters wide, 1 meter tall) https://engineering.stackexchange.com/questions/60826/warehouse-aisles-and-ramp-requirements-for-pallet-hand-trucks
