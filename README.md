@@ -2,7 +2,7 @@
 
 The Eco-Libre Treasure Tower is a zero-waste recycling station with humanure dry composting toilets, urine collection, hand washing stations, and storage for anaerobic decomposition of human waste.
 
-<img src="images/treasure-tower_2023.07.png?raw=true" alt="Screenshot of CAD file"></a>
+<img src="images/treasure-tower_2024.06.png?raw=true" alt="Screenshot of CAD file"></a>
 
 This facility is 6-stories high and features one toilet on each floor. Each toilet and floor is barrier-free with a ramp that winds around-and-up the 6-meter by 7-meter structure.
 
